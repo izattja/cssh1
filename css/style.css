@@ -1,0 +1,40 @@
+body {
+    font-family: 'calibri', 'Gill Sans MT', arial, 'Trebuchet MS', sans-serif;
+    font-size: 115%;
+}
+
+header{
+    background-color: white;
+
+nav{
+    background-color: white;
+}
+
+main{
+    background-color: white;
+    font-size: 100%;
+}
+
+footer{
+    background-color: white;
+}
+
+li{
+    display: block;
+    width: 16%;
+}
+
+h1 {
+    text-align: left;
+    font-family: sans-serif, 'Trebuchet MS', calibri;
+    color: darkblue;
+}
+
+p {
+    line-height: 1.6;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
